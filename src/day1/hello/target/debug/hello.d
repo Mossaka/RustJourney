@@ -1,0 +1,1 @@
+/Users/mossaka/Library/Mobile\ Documents/com~apple~CloudDocs/Developer/RustJourney/src/day1/hello/target/debug/hello: /Users/mossaka/Library/Mobile\ Documents/com~apple~CloudDocs/Developer/RustJourney/src/day1/hello/src/main.rs
