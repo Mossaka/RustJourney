@@ -1,0 +1,1 @@
+/Users/mossaka/Library/Mobile\ Documents/com~apple~CloudDocs/Developer/RustJourney/src/day2/mandelbrot/target/debug/mandelbrot: /Users/mossaka/Library/Mobile\ Documents/com~apple~CloudDocs/Developer/RustJourney/src/day2/mandelbrot/src/main.rs
