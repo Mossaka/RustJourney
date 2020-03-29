@@ -23,3 +23,7 @@ Learning resources:
 ### Day 3
 
 - Basic Types
+
+### Day 4
+
+- Ownership

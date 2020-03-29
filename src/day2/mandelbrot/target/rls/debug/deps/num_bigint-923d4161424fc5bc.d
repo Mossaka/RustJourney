@@ -1,0 +1,10 @@
+/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/Developer/RustJourney/src/day2/mandelbrot/target/rls/debug/deps/num_bigint-923d4161424fc5bc.rmeta: /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/Developer/RustJourney/src/day2/mandelbrot/target/rls/debug/deps/num_bigint-923d4161424fc5bc.d: /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs
+
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/lib.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/macros.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/biguint.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/algorithms.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/monty.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.44/src/bigint.rs:
