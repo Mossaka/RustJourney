@@ -28,3 +28,7 @@ Learning resources:
 
 - Ownership
 - Reference
+
+### Day 5
+
+- Expressions
