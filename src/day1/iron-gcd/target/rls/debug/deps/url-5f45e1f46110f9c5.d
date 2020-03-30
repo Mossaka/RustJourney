@@ -1,0 +1,13 @@
+/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/Developer/RustJourney/src/day1/iron-gcd/target/rls/debug/deps/url-5f45e1f46110f9c5.rmeta: /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/mossaka/Library/Mobile Documents/com~apple~CloudDocs/Developer/RustJourney/src/day1/iron-gcd/target/rls/debug/deps/url-5f45e1f46110f9c5.d: /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs /Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs
+
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/lib.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/encoding.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/host.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/origin.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/path_segments.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/parser.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/slicing.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/form_urlencoded.rs:
+/Users/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.2/src/quirks.rs:

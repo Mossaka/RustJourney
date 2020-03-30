@@ -122,13 +122,25 @@ Since slice is a reference to either array or vector, it makes it a good choice 
 
 #### String Literals
 
-String Literals are enclosed in double quotes.
+String Literals are enclosed in double quotes.<br>
 `let default_win_install_path = r"C:\Program Files\Gorillas";` is a raw string. We don't have escape characters in raw string.
 
 - We can think of strings as `Vec<u8>` to hold UTF-8.
 - A `&str`, called string slice, is a reference to a run of UTF-8 text owner by someone else.
 - It's impossible to modify a `&str`.
 - It's better to use `&str` in the argument of a function.
+
+#### What are the difference between String, &str, string literal?
+
+```rust
+let noodles = "noodles".to_string(); //String
+let oodles = &noodles[1..]; //&str
+let poodles = "ಠ_ಠ"; // string literal
+```
+
+A String owners a string buffer in the heap. We can think of String as `Vec<u8>` holding UTF-8. Its a fat pointer, containing address to heap, capacity and length. A String is analogous to `Vec<T>`<br>
+A `&str` is a reference (nonowning pointer) to UTF-8 text in heap. It's a fat pointer, containing the address and the the length.
+A string literal is a `&str` that refers to a preallocated text in read-only memory.
 
 ### More Types
 
