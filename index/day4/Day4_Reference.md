@@ -22,6 +22,14 @@ v.sort(); // implicitly borrows a mutable reference to v
 (&mut v).sort(); // equivalent; much uglier
 ```
 
+Note that `&mut` is an exclusive reference and `mut var` is a mutable binding of a variable. See the following example: <br>
+
+```rust
+let i = &mut 0;
+*i = 1;
+//i = 2; // however this wouldn't be allowed
+```
+
 ### Chain of references
 
 ```rust

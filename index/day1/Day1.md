@@ -9,6 +9,7 @@ Rust is a systems programming language. Rust is safe, concurrent language with t
 Rust is statically typed. <br>
 Rust is type safe. <br>
 Rust does not need garbage collector.<br>
+Rust is an expression language <br>
 
 ## Tools
 
