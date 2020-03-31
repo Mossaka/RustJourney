@@ -34,11 +34,10 @@ Learning resources:
 
 - Expressions
 - Error Handling
-- Crates and Modules
 
 ### Day 6
 
-- continue...
+- Crates and Modules
 
 ### Day 7
 
