@@ -4,9 +4,10 @@ My experience with learning Rust
 
 Learning resources:
 
-- https://www.cis.upenn.edu/~cis198/schedule/
-- Programming Rust Fast, Safe Systems Development
+- Online course: shttps://www.cis.upenn.edu/~cis198/schedule/
+- Textbook: Programming Rust Fast, Safe Systems Development
 - Package website: https://crates.io/
+- A simple C concurrent program written in Rust: http://kamalmarhubi.com/blog/2016/04/13/rust-nix-easier-unix-systems-programming-3/
 
 ## Index:
 
@@ -32,3 +33,13 @@ Learning resources:
 ### Day 5
 
 - Expressions
+- Error Handling
+- Crates and Modules
+
+### Day 6
+
+- continue...
+
+### Day 7
+
+- continue...
