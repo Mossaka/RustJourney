@@ -38,7 +38,13 @@ Learning resources:
 ### Day 6
 
 - Crates and Modules
+- Enum
+- Structs
 
 ### Day 7
+
+- Traits
+
+### Day 8
 
 - continue...
