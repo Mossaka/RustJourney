@@ -47,4 +47,8 @@ Learning resources:
 
 ### Day 8
 
+- Utility Traits
+
+### Day 9
+
 - continue...
