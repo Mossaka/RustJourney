@@ -51,4 +51,7 @@ Learning resources:
 
 ### Day 9
 
-- continue...
+- Closure
+- Iterator
+
+### Day 10
