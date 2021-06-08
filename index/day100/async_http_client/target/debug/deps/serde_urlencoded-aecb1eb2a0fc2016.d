@@ -1,0 +1,11 @@
+/home/mossaka/developer/LFX/RustJourney/index/day100/async_http_client/target/debug/deps/serde_urlencoded-aecb1eb2a0fc2016.rmeta: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs
+
+/home/mossaka/developer/LFX/RustJourney/index/day100/async_http_client/target/debug/deps/serde_urlencoded-aecb1eb2a0fc2016.d: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs
+
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/lib.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/de.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/mod.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/key.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/pair.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/part.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.6.1/src/ser/value.rs:

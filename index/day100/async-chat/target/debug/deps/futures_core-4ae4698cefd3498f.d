@@ -1,0 +1,11 @@
+/home/mossaka/developer/LFX/RustJourney/index/day100/async-chat/target/debug/deps/futures_core-4ae4698cefd3498f.rmeta: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/future.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/stream.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/mod.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/poll.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/__internal/mod.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/__internal/atomic_waker.rs
+
+/home/mossaka/developer/LFX/RustJourney/index/day100/async-chat/target/debug/deps/futures_core-4ae4698cefd3498f.d: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/future.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/stream.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/mod.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/poll.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/__internal/mod.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/__internal/atomic_waker.rs
+
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/lib.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/future.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/stream.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/mod.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/poll.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/__internal/mod.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.15/src/task/__internal/atomic_waker.rs:

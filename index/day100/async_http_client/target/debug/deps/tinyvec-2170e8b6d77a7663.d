@@ -1,0 +1,11 @@
+/home/mossaka/developer/LFX/RustJourney/index/day100/async_http_client/target/debug/deps/tinyvec-2170e8b6d77a7663.rmeta: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs
+
+/home/mossaka/developer/LFX/RustJourney/index/day100/async_http_client/target/debug/deps/tinyvec-2170e8b6d77a7663.d: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs
+
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs:

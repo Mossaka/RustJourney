@@ -1,0 +1,11 @@
+/home/mossaka/developer/LFX/RustJourney/index/day100/async-chat/target/debug/deps/futures_lite-53cdceb53e2c882d.rmeta: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/future.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/prelude.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/stream.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/io.rs
+
+/home/mossaka/developer/LFX/RustJourney/index/day100/async-chat/target/debug/deps/libfutures_lite-53cdceb53e2c882d.rlib: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/future.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/prelude.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/stream.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/io.rs
+
+/home/mossaka/developer/LFX/RustJourney/index/day100/async-chat/target/debug/deps/futures_lite-53cdceb53e2c882d.d: /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/lib.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/future.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/prelude.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/stream.rs /home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/io.rs
+
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/lib.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/future.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/prelude.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/stream.rs:
+/home/mossaka/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.12.0/src/io.rs:
