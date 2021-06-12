@@ -13,68 +13,23 @@ Learning resources:
 
 ## Index:
 
-### Day 1
+| Day | Title |
+| --- | --- |
+| [Day 1](https://github.com/Mossaka/RustJourney/tree/master/index/day1) | Crab book chap 1, 2: What is Rust, Tour of Rust |
+| [Day 2](https://github.com/Mossaka/RustJourney/tree/master/index/day2) | Crab book chap 2: Concurrency, Mandelbrot |
+| [Day 3](https://github.com/Mossaka/RustJourney/tree/master/index/day3) | Crab book chap 3: Basic types |
+| [Day 4](https://github.com/Mossaka/RustJourney/tree/master/index/day4) | Crab book chap 4, 5: Ownership, references |
+| [Day 5](https://github.com/Mossaka/RustJourney/tree/master/index/day5) | Crab book chap 6, 7: Expression, error handling |
+| [Day 6](https://github.com/Mossaka/RustJourney/tree/master/index/day6) | Crab book chap 8, 9, 10: Crates, enum, structs |
+| [Day 7](https://github.com/Mossaka/RustJourney/tree/master/index/day7) | Crab book chap 11: Traits |
+| [Day 8](https://github.com/Mossaka/RustJourney/tree/master/index/day8) | Crab book chap 13: Utility traits |
+| [Day 9](https://github.com/Mossaka/RustJourney/tree/master/index/day9) | Crab book chap 14, 15: Closure, iterators |
+| [Day 10](https://github.com/Mossaka/RustJourney/tree/master/index/day10) | Crab book chap 19: Concurrency |
+| [Day 100](https://github.com/Mossaka/RustJourney/tree/master/index/day100) | Crab book chap 20: Async Programming (Part 1)|
+| [Day 101](https://github.com/Mossaka/RustJourney/tree/master/index/day101) | [Tokio tutorial](https://tokio.rs/tokio/tutorial) |
+| [Day 102](https://github.com/Mossaka/RustJourney/tree/master/index/day102) | Async book chap 1,2: [async/await, executing futures and tasks](https://rust-lang.github.io/async-book/03_async_await/01_chapter.html) |
+| [Day 103](https://github.com/Mossaka/RustJourney/tree/master/index/day103) | JS runtime, [Neon async](https://neon-bindings.com/docs/async/) |
 
-- What is Rust
-- Tour of Rust
-
-### Day 2
-
-- Concurrency
-- Mandelbrot
-
-### Day 3
-
-- Basic Types
-
-### Day 4
-
-- Ownership
-- Reference
-
-### Day 5
-
-- Expressions
-- Error Handling
-
-### Day 6
-
-- Crates and Modules
-- Enum
-- Structs
-
-### Day 7
-
-- Traits
-
-### Day 8
-
-- Utility Traits
-
-### Day 9
-
-- Closure
-- Iterator
-
-### Day 10
-
-- Concurrency
-
-### Day 100
-
-- Asynchronous Programming
-  
-### Day 101
-- Tokio tutorial
-
-### Day 102
-- Executor
-- Task
-- Waker
-- Future
-
-### Day 103
-- FFi (TODO)
 
 ### TODO
 - Webassembly
