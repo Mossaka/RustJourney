@@ -58,6 +58,18 @@ Learning resources:
 
 - Concurrency
 
-### Day 11
+### Day 100
 
-- continue...
+- Asynchronous Programming
+  
+### Day 101
+- Tokio tutorial
+
+### Day 102
+- Executor
+- Task
+- Waker
+- Future
+
+### Day 103
+- FFi (TODO)
