@@ -1,6 +1,7 @@
 use async_std::task;
 use std::future::Future;
 use std::task::Poll;
+use std::thread;
 use std::time::Duration;
 use std::time::Instant;
 struct Delay {
@@ -14,7 +15,17 @@ impl Future for Delay {
         if Instant::now() > self.when {
             Poll::Ready("hello world")
         } else {
-            cx.waker().wake_by_ref();
+            let waker = cx.waker().clone();
+            let when = self.when;
+
+            thread::spawn(move || {
+                let now = Instant::now();
+                if now < when {
+                    thread::sleep(when - now);
+                }
+                waker.wake();
+            });
+
             Poll::Pending
         }
     }
