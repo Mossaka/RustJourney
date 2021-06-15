@@ -22,7 +22,7 @@ fn get_content(mut cx: FunctionContext) -> JsResult<JsUndefined> {
     let content = tokio::fs::read_to_string(file_path);
     let queue = cx.queue();
 
-    runtime.block_on(async move {
+    runtime.spawn(async move {
         let content = content.await;
         queue.send(move |mut cx| {
             let callback = callback.into_inner(&mut cx);
