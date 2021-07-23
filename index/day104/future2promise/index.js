@@ -12,7 +12,7 @@ class Mystruct {
     }
 
     get_content(path) {
-        return get_content_async(this.boxed, path);
+        return get_content_async(path);
     }
 }
 
