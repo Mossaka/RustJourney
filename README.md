@@ -11,7 +11,7 @@ Learning resources:
 - [Neon node-binding](https://github.com/neon-bindings/neon)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
 
-## Index:
+## Season 1:
 
 | Day | Title |
 | --- | --- |
@@ -25,12 +25,16 @@ Learning resources:
 | [Day 8](https://github.com/Mossaka/RustJourney/tree/master/index/day8) | Crab book chap 13: Utility traits |
 | [Day 9](https://github.com/Mossaka/RustJourney/tree/master/index/day9) | Crab book chap 14, 15: Closure, iterators |
 | [Day 10](https://github.com/Mossaka/RustJourney/tree/master/index/day10) | Crab book chap 19: Concurrency |
-| [Day 100](https://github.com/Mossaka/RustJourney/tree/master/index/day100) | Crab book chap 20: Async Programming (Part 1)|
-| [Day 101](https://github.com/Mossaka/RustJourney/tree/master/index/day101) | [Tokio tutorial](https://tokio.rs/tokio/tutorial) |
-| [Day 102](https://github.com/Mossaka/RustJourney/tree/master/index/day102) | Async book chap 1,2: [async/await, executing futures and tasks](https://rust-lang.github.io/async-book/03_async_await/01_chapter.html) |
-| [Day 103](https://github.com/Mossaka/RustJourney/tree/master/index/day103) | JS runtime, [Neon async](https://neon-bindings.com/docs/async/) |
-| [Day 104](https://github.com/Mossaka/RustJourney/tree/master/index/day104) | Play around with Neon closure, async, [Future2Promise](https://github.com/Mossaka/RustJourney/tree/master/index/day104/future2promise) |
 
+
+## Season 2:
+| Day | Title |
+| --- | --- |
+| [Day 1](https://github.com/Mossaka/RustJourney/tree/master/index/day100) | Crab book chap 20: Async Programming (Part 1)|
+| [Day 2](https://github.com/Mossaka/RustJourney/tree/master/index/day101) | [Tokio tutorial](https://tokio.rs/tokio/tutorial) |
+| [Day 3](https://github.com/Mossaka/RustJourney/tree/master/index/day102) | Async book chap 1,2: [async/await, executing futures and tasks](https://rust-lang.github.io/async-book/03_async_await/01_chapter.html) |
+| [Day 4](https://github.com/Mossaka/RustJourney/tree/master/index/day103) | JS runtime, [Neon async](https://neon-bindings.com/docs/async/) |
+| [Day 5](https://github.com/Mossaka/RustJourney/tree/master/index/day104) | Play around with Neon closure, async, [Future2Promise](https://github.com/Mossaka/RustJourney/tree/master/index/day104/future2promise) |
 
 ### TODO
 - Webassembly
