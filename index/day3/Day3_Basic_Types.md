@@ -35,6 +35,7 @@ let _b = std::f64::INFINITY;
 ```
 
 ### Boolean
+rust will require `if x!=0 {...}` not simply `if x {...}`.
 
 ```rust
 assert_eq!(false as i64, 0);
@@ -57,7 +58,7 @@ assert_eq!(std::char::from_digit(2, 10), Some('2'));
 ```rust
 
 let text = "I see the eigenvalue in thine eye";
-let (head, tail) = text.split_at(21);
+let (head, tail) = text.split_at(21); // pattern-matching
 assert_eq!(head, "I see the eigenvalue ");
 assert_eq!(tail, "in thine eye");
 ```
@@ -73,26 +74,30 @@ unit tuple: `()` has only one value in Rust: `()`. When we don't have a return t
 `&T` It borrows an immutable reference to T.
 `&mut T` It borrows a mutable reference to T.
 
+Unlike C, references are never null. Rust compiler tracks the ownership and lifetimes of values -> no dangling pointers, double frees, and pointer invalidation
+
 #### boxes
 
 `Box::new(T)` will allocate a value in the heap.
 
 #### unsafe pointers
 
-raw pointer types `*mut T` and `*const T`. Don't use them.
+raw pointer types `*mut T` and `*const T`. Don't use them. If needed, use them in `unsafe` blocks.
 
 ### Array, Vectors and Slices
 
 - the type `[T;N]` represents a N-elem array with type T. The array size is fixed
-- the type `Vec<T>` is dynamically allocated array. Its elemenst live on the heap.
+- the type `Vec<T>` is dynamically allocated array. Its elements live on the heap.
 - The types `&[T]` and `&mut [T]`, called a shared slice of Ts and mutable slice of Ts, are references to a series of elements that are a part of some other value, like an array or vector.
-- `v.len()`
+- `v.len()`, `v[i]`.
 - `let mut sieve = [true; 10000];` can create a 10000 array with default value.
 
 ```rust
 let mut v = vec![2, 3, 5, 7];
 assert_eq!(v.iter().fold(1, |a, b| a * b), 210);
 ```
+
+Useful methods, like iterating over elements, searching, sorting, filling, filtering and so on are all provided on slices, not on arrays. But Rust implicitly converts a reference to an array to a slice when searching for methods. 
 
 - `vec!` macro is equivalent to `Vec::new()` and push elements into it.
 - `let v: Vec<i32> = (0..5).collect();` vector produced by iterator.

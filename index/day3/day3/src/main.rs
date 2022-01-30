@@ -1,3 +1,5 @@
+use std::ascii::AsciiExt;
+
 fn main() {
     println!("Hello, world!");
 
@@ -11,4 +13,13 @@ fn main() {
 
     let text = "haha this is not a test";
     let (head, tail) = text.split_at(10);
+
+    let mut v = "hello, world".to_string();
+    let s = &mut v[0..5];
+    let s = unsafe { s.as_bytes_mut() };
+    s[0] = 'H' as u8;
+    println!("{}", v)
+    // -> Hello, world
+
+    
 }

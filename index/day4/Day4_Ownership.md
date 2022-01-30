@@ -1,6 +1,6 @@
 # Ownership
 
-C++: keeps the ownership of all the memory clear, at the espense of making assignment carry out a deep copy of the object.<br>
+C++: keeps the ownership of all the memory clear, at the expense of making assignment carry out a deep copy of the object.<br>
 Python: makes assignment easy, at the espense of requiring reference counts (hence garbage collection).<br>
 Rust: makes assignment easy, but like C++ it keeps the ownership clear and hence do not need garbage collection.<br>
 

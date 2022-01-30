@@ -75,6 +75,10 @@ At the machine level, Rust represents `None` as a null pointer, and `Some(r)`, w
 
 ### Receiving Reference as Parameter
 
+Rust'e quivalent of a global variable is called a `static`. It follows a few rules:
+1. Every static must be initialized at compile time.
+2. Mutable statics are inherently not therad-safe. 
+
 ```rust
 static mut STASH: &i32 = &128;
 fn f(p: &i32) { // still not good enough
