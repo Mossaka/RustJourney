@@ -35,7 +35,8 @@ Learning resources:
 | [Day 3](https://github.com/Mossaka/RustJourney/tree/master/index/day102) | Async book chap 1,2: [async/await, executing futures and tasks](https://rust-lang.github.io/async-book/03_async_await/01_chapter.html) |
 | [Day 4](https://github.com/Mossaka/RustJourney/tree/master/index/day103) | JS runtime, [Neon async](https://neon-bindings.com/docs/async/) |
 | [Day 5](https://github.com/Mossaka/RustJourney/tree/master/index/day104) | Play around with Neon closure, async, [Future2Promise](https://github.com/Mossaka/RustJourney/tree/master/index/day104/future2promise) |
-
+| Day 8 | Wasmtime Part 1 (wasmtime run wasm executable, or library) |
+| Day 9 | Wasmtime Part 2 (wit and interface types) |
 ### TODO
 - Webassembly
 - FFI

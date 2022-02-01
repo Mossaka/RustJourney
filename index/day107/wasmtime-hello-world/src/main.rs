@@ -15,6 +15,8 @@ fn main() -> Result<()> {
     let instance = linker.instantiate(&mut store, &module)?;
     instance.get_typed_func::<(), (), _>(&mut store, "print_hello")?.call(&mut store, ())?;
     instance.get_typed_func::<i32, (), _>(&mut store, "print_increment_num")?.call(&mut store, 5)?;
+    // instance.get_typed_func::<&str, (), _>(&mut store, "print_str")?.call(&mut store, "hello asdfasdfasdf")?; 
+    // -> the trait `WasmTy` is not implemented for `&str`
 
     Ok(())
 }

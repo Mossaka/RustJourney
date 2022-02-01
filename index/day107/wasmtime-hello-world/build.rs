@@ -14,6 +14,7 @@ fn main() {
     // Use the `cc` crate to build a C file and statically link it.
     cargo_wasi_build(WASI);
     cargo_wasi_build2(WASI_LIB);
+    
 }
 
 fn cargo_wasi_build(dir: &str) {
