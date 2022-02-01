@@ -5,12 +5,14 @@ My experience with learning Rust
 Learning resources:
 
 - Online course: shttps://www.cis.upenn.edu/~cis198/schedule/
-- Textbook: Programming Rust Fast, Safe Systems Development
+- Textbook: Programming Rust Fast, Safe Systems Development 2nd Ed.
 - Package website: https://crates.io/
+- Docs website: https://docs.rs/
 - A simple C concurrent program written in Rust: http://kamalmarhubi.com/blog/2016/04/13/rust-nix-easier-unix-systems-programming-3/
 - [Neon node-binding](https://github.com/neon-bindings/neon)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/01_getting_started/01_chapter.html)
-
+- [Too Many Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html)
 ## Season 1:
 
 | Day | Title |
@@ -38,8 +40,8 @@ Learning resources:
 | Day 8 | Wasmtime Part 1 (wasmtime run wasm executable, or library) |
 | Day 9 | Wasmtime Part 2 (wit and interface types) |
 ### TODO
-- Webassembly
-- FFI
+- Rust in Action
+
 
 ### Some Project Ideas
 - Implement a web server in Rust
