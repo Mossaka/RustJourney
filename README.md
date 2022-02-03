@@ -38,7 +38,7 @@ Learning resources:
 | [Day 4](https://github.com/Mossaka/RustJourney/tree/master/index/day103) | JS runtime, [Neon async](https://neon-bindings.com/docs/async/) |
 | [Day 5](https://github.com/Mossaka/RustJourney/tree/master/index/day104) | Play around with Neon closure, async, [Future2Promise](https://github.com/Mossaka/RustJourney/tree/master/index/day104/future2promise) |
 | Day 8 | Wasmtime Part 1 (wasmtime run wasm executable, or library) |
-| Day 9 | Wasmtime Part 2 (wit and interface types) |
+| [Day 9](https://github.com/Mossaka/RustJourney/tree/master/index/day108) | Wasmtime Part 2 (wit and interface types) |
 ### TODO
 - Rust in Action
 
