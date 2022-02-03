@@ -1,0 +1,6 @@
+variant myboolean {
+    true,
+    false,
+}
+
+negate: function(a: myboolean) -> myboolean
